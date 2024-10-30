@@ -1,0 +1,14 @@
+.container_input{
+    text-align: left;
+    margin: 0 0 .5rem 0;
+}
+
+.container_input > label{
+    margin: 0 1rem 0 0;
+    font-size: 0.7rem;
+    color: rgb(128, 111, 111);
+}
+
+.container_input > input{
+    cursor: pointer;
+}
